@@ -19,7 +19,7 @@ function tempMeded() {
     )
     let Julho = Number(
       prompt("Digite a temperatura Média de Julho: ")
-    )0
+    )
     let Agosto = Number(
       prompt("Digite a temperatura Média de Agosto: ")
     )
@@ -37,7 +37,7 @@ function tempMeded() {
     )
     let meses =
       Janeiro + Fevereiro + Março + Abril + Maio + Junho + Julho + Agosto + Setembro + Outubro + nov + Dezembro
-    let temperaturaMedia 0= meses / 12
+    let temperaturaMedia  = meses / 12
     let mediaAcima
     alert("A temperatura média é de " + temperaturaMedia.toFixed(2) + " Graus")
   
